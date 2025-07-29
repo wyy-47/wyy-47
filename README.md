@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **wyy-47/wyy-47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Yiyi Wu (wyy_47)
+Hiya, welcome to my GitHub :)
+
+## Current Work
+Currently I'm a research assistant at RoboCare Lab at WPI, I mainly work on a progressive multimodal Nao robot system for emotional learning in Autistic children.
+
